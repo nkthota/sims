@@ -1,0 +1,16 @@
+﻿<Properties>
+  <WatchEntry0 value="objRAPdfTexasWeekly" />
+  <WatchEntry1 value="Condition" />
+  <WatchEntry10 value="intRandomNumber" />
+  <WatchEntry11 value="Iterator" />
+  <WatchEntry12 value="arrColumnValues" />
+  <WatchEntry13 value="Ubound(arrColumns)" />
+  <WatchEntry2 value="itemNumber" />
+  <WatchEntry3 value="ModelNumber" />
+  <WatchEntry4 value="objAgreementItem.itemNumber" />
+  <WatchEntry5 value="objWeeklyRentalValidation" />
+  <WatchEntry6 value="intRandomNumber" />
+  <WatchEntry7 value="JavaWindow(&quot;JFrame&quot;).JavaInternalFrame(&quot;Agreement Item Search&quot;).JavaTable(&quot;Items&quot;).GetCellData(5, &quot;Item #&quot;)" />
+  <WatchEntry8 value="JavaWindow(&quot;JFrame&quot;).JavaInternalFrame(&quot;Agreement Item Search&quot;).JavaTable(&quot;Items&quot;).GetCellData(intRandomNumber, &quot;Model #&quot;)" />
+  <WatchEntry9 value="intRowCount" />
+</Properties>
